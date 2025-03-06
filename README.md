@@ -7,9 +7,4 @@
 
 这个仓库是我看动漫时候涌现出来的奇怪想法和感悟。凑成一个作品集，朝花夕拾。
 
-文章也会同步放在我的B站专栏。可以移步阅读：
-
-https://space.bilibili.com/296494084/article
-
-欢迎在B站专栏评论或者点赞。GitHub上的issues默认不用。
-
+文章也会同步放在我的[B站专栏](https://space.bilibili.com/296494084/upload/opus)。欢迎在B站专栏评论或者点赞。GitHub上的issues默认不用。
